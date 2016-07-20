@@ -1,0 +1,23 @@
+{
+  "LANGUAGE_CONSTANT": "Finnish (Suomi)",
+  "ERRORS": {
+    "INVALID_API_REPLY_RECEIVED": "API palautti epätavallisen vastauksen. Yritä myöhemmin uudelleen.",
+    "USERS_PERMISSION_IS_NOT_SUFFICIENT": "Oikeustasosi on liian matala tämän komennon ajoon.\nTasosi on oltava {{userlevel}}, mutta sinulla on {{needlevel}}\nPyydä serverin omistajaa vaihtamaan tasoasi komennolla `setlevel`.",
+    "CHANNEL_DOES_NOT_ALLOW_NSFW": "Tämä kanava ei salli K-18-komentoja, aja ensin komento `setnsfw on`.",
+    "MASTER_ACCESS_NEEDED": "Tarvitset oikeustason `master` tämän komennon ajamiseen.",
+    "INTERNAL_UNKNOWN_ERROR": "Komennon suorituksessa tapahtui virhe, yritä myöhemmin uudelleen."
+  },
+  "MUSIC": {
+    "PLAYLIST_ADDITION_FAILED": "Tuota ei pystytty lisäämään soittolistaan, yritä jotain muuta.",
+    "PLAYLIST_ITEM_ADDED": "Lisätty {{name}} soittolistaan paikalle {{pos}}.",
+    "PLAYLIST_NEXT_UP": "**{{current}}** on päättynyt!\nSeuraavana on **{{next}}** jota pyysi *{{user}}*."
+  },
+  "HELP": {
+    "NAME_DECLARE": "Komennon nimi: {{name}}",
+    "EXAMPLE_DECLARE": "Käyttöohje: {{example}}",
+    "ACCESS_DECLARE": "Vaadittu oikeustaso: {{level}}",
+    "HIDDEN_DECLARE": "Tämä komento on piilotettu.",
+    "NSFW_DECLARE": "Tämä komento on K-18.",
+    "TIMEOUT_DECLARE": "Tämän komennon cooldown-aika on {{time}} sekuntia."
+  }
+}
