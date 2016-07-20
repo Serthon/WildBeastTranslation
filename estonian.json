@@ -1,0 +1,23 @@
+{
+  "LANGUAGE_CONSTANT": "Estonian (Eesti)",
+  "ERRORS": {
+    "INVALID_API_REPLY_RECIEVED": "API vastas omapärase veage, proovige uuesti hiljem.", 
+    "USERS_PERMISSION_IS_NOT_SUFFICIENT": "Sul ei ole piisavalt palju luba, et kasutada seda käsku.\nSul on vaja {{userlevel}}, aga sul on {{needlevel}}\nKüsi serveri omaniku käest, et oma levelit muuta `setlevel`-iga.",
+    "CHANNEL_DOES_NOT_ALLOW_NSFW": "See kanal ei luba NSFW käske, ennem tee `setnsfw on`.",
+    "MASTER_ACCESS_NEEDED": "Sa pead olema boti peakasutaja et seda käsku teha.",
+    "INTERNAL_UNKNOWN_ERROR": "Midagi läks valesti, proovige hiljem."
+  },
+  "MUSIC": {
+    "PLAYLIST_ADDITION_FAILED": "Ma ei saanud seda lisada playlistile.",
+    "PLAYLIST_ITEM_ADDED": "Lisasin {{name}} playlistile, positsioonil {{pos}}.",
+    "PLAYLIST_NEXT_UP": "**{{current}}** lõppes!\nJärgmisena on **{{next}}** mille nõudis *{{user}}*"
+  },
+  "HELP": {
+    "NAME_DECLARE": "Käsu nimi: {{name}}",
+    "EXAMPLE_DECLARE": "Kuidas seda kasutatakse: {{example}}",
+    "ACCESS_DECLARE": "Level vajalik: {{level}}",
+    "HIDDEN_DECLARE": "See käsk on peidetud.",
+    "NSFW_DECLARE": "See käsk on NSFW.",
+    "TIMEOUT_DECLARE": "Sellel käsul on timeout {{time}} sekundit."
+  }
+}
