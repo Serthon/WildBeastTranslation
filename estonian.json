@@ -1,6 +1,5 @@
-
 {
-  "LANGUAGE_CONSTANT": "Estonian",
+  "LANGUAGE_CONSTANT": "Estonian (Eesti)",
   "ERRORS": {
     "INVALID_API_REPLY_RECIEVED": "API vastas omapärase veage, proovige uuesti hiljem.", 
     "USERS_PERMISSION_IS_NOT_SUFFICIENT": "Sul ei ole piisavalt palju luba, et kasutada seda käsku.\nSul on vaja {{userlevel}}, aga sul on {{needlevel}}\nKüsi serveri omaniku käest, et oma levelit muuta `setlevel`-iga.",
