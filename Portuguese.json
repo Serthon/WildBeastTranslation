@@ -1,0 +1,23 @@
+{
+  "LANGUAGE_CONSTANT": "Portuguese (Português)",
+  "ERRORS": {
+    "INVALID_API_REPLY_RECIEVED": "A interface devolveu uma resposta inconvencional, tente novamente.",
+    "USERS_PERMISSION_IS_NOT_SUFFICIENT": "Não tem permissões suficientes para correr este comando.\nPrecisa de nível {{needlevel}}, mas tem nível {{userlevel}}.\nContacte o administrador do servidor para alterar o seu nível com setlevel",
+    "CHANNEL_DOES_NOT_ALLOW_NSFW": "Este canal não permite comandos NSFW, corra setnsfw primeiro.",
+    "MASTER_ACCESS_NEEDED": "Precisa de ser um usuário mestre para usar este comando",
+    "INTERNAL_UNKNOWN_ERROR": "Algo correu mal durante a execução deste comando, tente novamente."
+  },
+  "MUSIC": {
+    "PLAYLIST_ADDITION_FAILED": "Não consegui adicionar à lista de reprodução, tente algo diferent.",
+    "PLAYLIST_ITEM_ADDED": "{{name}} foi adicionado à lista de reprodução na posição {{pos}}.",
+    "PLAYLIST_NEXT_UP": "{{current}} acabou!\nA seguir é {{next}} pedido por {{user}}"
+  },
+  "HELP": {
+    "NAME_DECLARE": "Nome do comando: {{name}}",
+    "EXAMPLE_DECLARE": "Como utilizar: {{example}}",
+    "ACCESS_DECLARE": "Nível necessário de acesso: {{level}}",
+    "HIDDEN_DECLARE": "Este comando é oculto.",
+    "NSFW_DECLARE": "Este comando é NSFW.",
+    "TIMEOUT_DECLARE": "Este comando tem um intervalo de utilização de {{time}} segundos."
+  }
+}
