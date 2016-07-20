@@ -1,0 +1,23 @@
+{
+  "LANGUAGE_CONSTANT": "Pirate",
+  "ERRORS": {
+    "INVALID_API_REPLY_RECIEVED": "Shiver me timbers! Ye should try again later.",
+    "USERS_PERMISSION_IS_NOT_SUFFICIENT": "Ye have no access matey! Ask yer server owner to change yer level with `setlevel`",
+    "CHANNEL_DOES_NOT_ALLOW_NSFW": "Arrrr, this be NSFW, and this channel ain't allowing it!",
+    "MASTER_ACCESS_NEEDED": "Blimey, you ain't a master user, you canna do that!",
+    "INTERNAL_UNKNOWN_ERROR": "Somethin' sailed' wrong with that command."
+  },
+  "MUSIC": {
+    "PLAYLIST_ADDITION_FAILED": "I couldna add that to yer playlist.",
+    "PLAYLIST_ITEM_ADDED": "Yarr, {{name}} was add'd at place {{pos}}.",
+    "PLAYLIST_NEXT_UP": "**{{current}}** has ended!\nNext up is **{{next}}** requested by *{{user}}*"
+  },
+  "HELP": {
+    "NAME_DECLARE": "Command name: {{name}}",
+    "EXAMPLE_DECLARE": "How ye do it: {{example}}",
+    "ACCESS_DECLARE": "Ye need this level: {{level}}",
+    "HIDDEN_DECLARE": "This command be hidden.",
+    "NSFW_DECLARE": "This command be NSFW.",
+    "TIMEOUT_DECLARE": "This command has a cooldown of {{time}} seconds."
+  }
+}
