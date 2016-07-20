@@ -1,8 +1,8 @@
 {
   "LANGUAGE_CONSTANT": "English",
   "ERRORS": {
-    "INVALID_API_REPLY_RECIEVED": "The API returned an unconventional response, try again later.",
-    "USERS_PERMISSION_IS_NOT_SUFFICIENT": "You don't have enough permission to run this command.\nYou need level {{userlevel}}, but you have {{needlevel}}\nAsk the server owner to modify your level with `setlevel`",
+    "INVALID_API_REPLY_RECEIVED": "The API returned an unconventional response, try again later.",
+    "USERS_PERMISSION_IS_NOT_SUFFICIENT": "You don't have enough permissions to run this command.\nYou need level {{userlevel}}, but you have {{needlevel}}\nAsk the server owner to modify your level with `setlevel`",
     "CHANNEL_DOES_NOT_ALLOW_NSFW": "This channel does not allow NSFW commands, run `setnsfw on` first.",
     "MASTER_ACCESS_NEEDED": "You need to be a master user to use this command.",
     "INTERNAL_UNKNOWN_ERROR": "Something went wrong while running this command, try again later."
